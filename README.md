@@ -20,49 +20,27 @@
 
 ## <img src="./assets/icon-stack.svg" alt="" height="26" /> Tech Stack
 
-#### Languages
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" height="34" />
-</p>
-
-#### Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="34" />
-</p>
-
-#### Backend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" title="Django" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" height="34" />
-</p>
-
-#### Data &amp; APIs
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apollographql/apollographql-original.svg" alt="Apollo" title="Apollo" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="REST APIs" title="REST APIs" height="34" />
-</p>
-
-#### Tools &amp; Workflow
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="34" />&nbsp;&nbsp;
-  <img src="./assets/icon-github.svg" alt="GitHub" title="GitHub" height="30" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" title="Visual Studio Code" height="34" />
+<p align="center">
+  <img src="https://cdn.simpleicons.org/typescript/0891B2" alt="TypeScript" title="TypeScript" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/0891B2" alt="JavaScript" title="JavaScript" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/python/0891B2" alt="Python" title="Python" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/php/0891B2" alt="PHP" title="PHP" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/react/0891B2" alt="React" title="React" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vuedotjs/0891B2" alt="Vue" title="Vue" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/0891B2" alt="Tailwind CSS" title="Tailwind CSS" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/0891B2" alt="HTML5" title="HTML5" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/css/0891B2" alt="CSS3" title="CSS3" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs/0891B2" alt="NestJS" title="NestJS" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/django/0891B2" alt="Django" title="Django" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/laravel/0891B2" alt="Laravel" title="Laravel" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/graphql/0891B2" alt="GraphQL" title="GraphQL" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/apollographql/0891B2" alt="Apollo" title="Apollo" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/0891B2" alt="PostgreSQL" title="PostgreSQL" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/0891B2" alt="Prisma" title="Prisma" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/swagger/0891B2" alt="REST APIs" title="REST APIs" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/git/0891B2" alt="Git" title="Git" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/github/0891B2" alt="GitHub" title="GitHub" height="32" />&nbsp;
+  <img src="./assets/icon-vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="32" />
 </p>
 
 ## <img src="./assets/icon-stats.svg" alt="" height="26" /> GitHub Stats
