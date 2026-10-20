@@ -20,27 +20,54 @@
 
 ## <img src="./assets/icon-stack.svg" alt="" height="26" /> Tech Stack
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/typescript/0891B2" alt="TypeScript" title="TypeScript" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/0891B2" alt="JavaScript" title="JavaScript" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/python/0891B2" alt="Python" title="Python" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/php/0891B2" alt="PHP" title="PHP" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/react/0891B2" alt="React" title="React" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/vuedotjs/0891B2" alt="Vue" title="Vue" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/0891B2" alt="Tailwind CSS" title="Tailwind CSS" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/0891B2" alt="HTML5" title="HTML5" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/css/0891B2" alt="CSS3" title="CSS3" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/nestjs/0891B2" alt="NestJS" title="NestJS" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/django/0891B2" alt="Django" title="Django" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/laravel/0891B2" alt="Laravel" title="Laravel" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/graphql/0891B2" alt="GraphQL" title="GraphQL" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/apollographql/0891B2" alt="Apollo" title="Apollo" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/0891B2" alt="PostgreSQL" title="PostgreSQL" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/0891B2" alt="Prisma" title="Prisma" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/swagger/0891B2" alt="REST APIs" title="REST APIs" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/git/0891B2" alt="Git" title="Git" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/github/0891B2" alt="GitHub" title="GitHub" height="32" />&nbsp;
-  <img src="./assets/icon-vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="32" />
+<p><strong>Languages</strong></p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=typescript%2Cjavascript%2Cpython%2Cphp&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=typescript%2Cjavascript%2Cpython%2Cphp&amp;theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript%2Cjavascript%2Cpython%2Cphp&amp;theme=dark" alt="TypeScript, JavaScript, Python, PHP" height="48" />
+  </picture>
+</p>
+
+<p><strong>Frontend</strong></p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=react%2Cvue%2Ctailwindcss%2Chtml%2Ccss&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=react%2Cvue%2Ctailwindcss%2Chtml%2Ccss&amp;theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react%2Cvue%2Ctailwindcss%2Chtml%2Ccss&amp;theme=dark" alt="React, Vue, Tailwind CSS, HTML, CSS" height="48" />
+  </picture>
+</p>
+
+<p><strong>Backend</strong></p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=nestjs%2Cdjango%2Claravel&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=nestjs%2Cdjango%2Claravel&amp;theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs%2Cdjango%2Claravel&amp;theme=dark" alt="NestJS, Django, Laravel" height="48" />
+  </picture>
+</p>
+
+<p><strong>Data &amp; APIs</strong></p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=graphql%2Capollo%2Cpostgresql%2Cprisma%2Cswagger&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=graphql%2Capollo%2Cpostgresql%2Cprisma%2Cswagger&amp;theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql%2Capollo%2Cpostgresql%2Cprisma%2Cswagger&amp;theme=dark" alt="GraphQL, Apollo, PostgreSQL, Prisma, REST APIs" height="48" />
+  </picture>
+</p>
+
+<p><strong>Tools &amp; Workflow</strong></p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=git%2Cgithub%2Cvscode&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=git%2Cgithub%2Cvscode&amp;theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git%2Cgithub%2Cvscode&amp;theme=dark" alt="Git, GitHub, Visual Studio Code" height="48" />
+  </picture>
 </p>
 
 ## <img src="./assets/icon-stats.svg" alt="" height="26" /> GitHub Stats
