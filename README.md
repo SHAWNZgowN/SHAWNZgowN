@@ -34,9 +34,9 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=react%2Cvue%2Ctailwindcss%2Chtml%2Ccss&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=react%2Cvue%2Ctailwindcss%2Chtml%2Ccss&amp;theme=light" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react%2Cvue%2Ctailwindcss%2Chtml%2Ccss&amp;theme=dark" alt="React, Vue, Tailwind CSS, HTML, CSS" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=react%2Cvue%2Ctailwindcss%2Cshadcn%2Cdaisyui%2Chtmx%2Chtml%2Ccss&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=react%2Cvue%2Ctailwindcss%2Cshadcn%2Cdaisyui%2Chtmx%2Chtml%2Ccss&amp;theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react%2Cvue%2Ctailwindcss%2Cshadcn%2Cdaisyui%2Chtmx%2Chtml%2Ccss&amp;theme=dark" alt="React, Vue, Tailwind CSS, shadcn/ui, DaisyUI, htmx, HTML, CSS" height="48" />
   </picture>
 </p>
 
@@ -67,6 +67,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=git%2Cgithub%2Cvscode&amp;theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=git%2Cgithub%2Cvscode&amp;theme=light" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git%2Cgithub%2Cvscode&amp;theme=dark" alt="Git, GitHub, Visual Studio Code" height="48" />
+  </picture>&nbsp;&nbsp;<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-codex-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icon-codex-light.svg" />
+    <img src="./assets/icon-codex-dark.svg" alt="OpenAI Codex" height="48" />
+  </picture>&nbsp;&nbsp;<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-claudecode-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icon-claudecode-light.svg" />
+    <img src="./assets/icon-claudecode-dark.svg" alt="Claude Code" height="48" />
   </picture>
 </p>
 
