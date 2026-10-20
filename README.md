@@ -18,9 +18,9 @@
   <img src="./assets/brand-line-animated.svg" alt="" width="72%" />
 </p>
 
-## <img src="./assets/icon-stack.svg" alt="" height="26" /> Stack
+## <img src="./assets/icon-stack.svg" alt="" height="26" /> Tech Stack
 
-#### Languages <sub>the primitives</sub>
+#### Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="34" />&nbsp;&nbsp;
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" height="34" />
 </p>
 
-#### Frontend <sub>the visible layer</sub>
+#### Frontend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="34" />&nbsp;&nbsp;
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="34" />
 </p>
 
-#### Backend <sub>the service layer</sub>
+#### Backend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" height="34" />&nbsp;&nbsp;
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" height="34" />
 </p>
 
-#### Data &amp; APIs <sub>the connective tissue</sub>
+#### Data &amp; APIs
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" height="34" />&nbsp;&nbsp;
@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="REST APIs" title="REST APIs" height="34" />
 </p>
 
-#### Tools &amp; Workflow <sub>the daily loop</sub>
+#### Tools &amp; Workflow
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="34" />&nbsp;&nbsp;
@@ -116,8 +116,4 @@
 
 <p align="center">
   <img src="./assets/brand-line.svg" alt="" width="72%" />
-</p>
-
-<p align="center">
-  <a href="mailto:oteroshawnharvey@gmail.com"><img src="https://img.shields.io/badge/Let%27s%20build%20something%20useful.-A3E635?style=flat-square" alt="Let's build something useful." height="28" /></a>
 </p>
