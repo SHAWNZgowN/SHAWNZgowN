@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Full-stack web developer from Bohol, Philippines. I turn real requirements into maintainable products, APIs, and responsive interfaces.
+  <img src="./assets/typing.svg" alt="Hi there, I'm Shawn Harvey Otero! github.com/SHAWNZgowN Full-Stack Web Developer" width="100%" />
 </p>
 
 <p align="center">
