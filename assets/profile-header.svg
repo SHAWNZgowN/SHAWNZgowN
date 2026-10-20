@@ -1,0 +1,41 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shawn Harvey Otero - Full-stack Web Developer</title>
+  <desc id="desc">A dark developer-studio header with a subtle grid and electric green accent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11151C" />
+      <stop offset="1" stop-color="#1C2430" />
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="80" x2="1070" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A3E635" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.08" />
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" rx="24" fill="url(#bg)" />
+  <rect x="1" y="1" width="1198" height="278" rx="23" stroke="#334155" stroke-opacity="0.7" />
+  <rect width="1200" height="280" rx="24" fill="url(#grid)" />
+
+  <circle cx="1038" cy="60" r="82" fill="#22D3EE" fill-opacity="0.08" filter="url(#glow)" />
+  <circle cx="1060" cy="58" r="4" fill="#A3E635" />
+  <circle cx="1080" cy="58" r="4" fill="#22D3EE" />
+  <circle cx="1100" cy="58" r="4" fill="#F8FAFC" fill-opacity="0.5" />
+
+  <path d="M828 214C900 172 947 238 1012 196C1065 162 1098 188 1145 158" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity="0.75" />
+  <path d="M828 230C902 188 950 254 1016 212C1065 180 1100 204 1145 176" stroke="#A3E635" stroke-width="1" stroke-linecap="round" stroke-opacity="0.24" />
+
+  <text x="72" y="104" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="42" font-weight="700" letter-spacing="1">SHAWN HARVEY OTERO</text>
+  <text x="76" y="151" fill="#A3E635" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="700" letter-spacing="3">FULL-STACK WEB DEVELOPER</text>
+  <text x="76" y="196" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">TypeScript  /  Python  /  APIs  /  responsive interfaces</text>
+  <rect x="76" y="220" width="92" height="3" rx="1.5" fill="url(#accent)" />
+</svg>
