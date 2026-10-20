@@ -17,11 +17,11 @@
     /* Brand palette - theme aware: lime / cyan / neutral */
     .l1 { fill: #4D7C0F; }
     .l2 { fill: #0E7490; }
-    .l3 { fill: #0B1018; }
+    .l3 { fill: #4D7C0F; }
     @media (prefers-color-scheme: dark) {
       .l1 { fill: #A3E635; }
       .l2 { fill: #22D3EE; }
-      .l3 { fill: #F8FAFC; }
+      .l3 { fill: #A3E635; }
     }
 </style>
 

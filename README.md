@@ -7,16 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&amp;to=oteroshawnharvey@gmail.com&amp;su=Hello%20Shawn&amp;body=Hi%20Shawn%2C%0AI%20saw%20your%20profile%20and%20would%20like%20to%20talk."><img src="./assets/social-mail.svg" alt="Email Shawn" height="48" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;to=oteroshawnharvey@gmail.com&amp;su=Hello%20Shawn&amp;body=Hi%20Shawn%2C%0AI%20saw%20your%20profile%20and%20would%20like%20to%20talk."><img src="./assets/social-mail.svg" alt="Email Shawn" height="64" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SHAWNZgowN"><img src="./assets/social-github.svg" alt="Shawn on GitHub" height="48" /></a>
+  <a href="https://github.com/SHAWNZgowN"><img src="./assets/social-github.svg" alt="Shawn on GitHub" height="64" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.google.com/maps/search/?api=1&amp;query=Bohol%2C%20Philippines"><img src="./assets/social-location.svg" alt="Bohol, Philippines" height="48" /></a>
-</p>
-
-<p align="center">
-  <img src="./assets/status-pulse.svg" alt="" height="16" />
-  &nbsp;<strong>Open to thoughtful problems</strong>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Bohol%2C%20Philippines"><img src="./assets/social-location.svg" alt="Bohol, Philippines" height="64" /></a>
 </p>
 
 <p align="center">
