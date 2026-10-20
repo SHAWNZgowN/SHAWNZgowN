@@ -1,0 +1,92 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Shawn Harvey Otero - Build what people can use</title>
+  <desc id="heroDesc">Full-stack web developer from Bohol, Philippines. I turn real requirements into maintainable products, APIs, and responsive interfaces.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11151C" />
+      <stop offset="1" stop-color="#1C2430" />
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A3E635" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F8FAFC" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#F8FAFC" stop-opacity="0.75" />
+      <stop offset="1" stop-color="#F8FAFC" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.08" />
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="signalGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    .rise { animation: rise 0.9s cubic-bezier(0.16, 1, 0.3, 1) both; transform-box: fill-box; }
+    .d1 { animation-delay: 0.05s; }
+    .d2 { animation-delay: 0.2s; }
+    .d3 { animation-delay: 0.42s; }
+    .d4 { animation-delay: 0.62s; }
+    .breathe { animation: breathe 5.5s ease-in-out infinite; }
+    .signal { animation: travel 4.2s linear infinite; }
+    .sheen { animation: sweep 3.6s ease-in-out infinite; transform-box: fill-box; }
+    .blink { animation: blink 2.6s ease-in-out infinite; }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(18px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes breathe {
+      0%, 100% { opacity: 0.5; }
+      50% { opacity: 1; }
+    }
+    @keyframes travel {
+      to { stroke-dashoffset: -1; }
+    }
+    @keyframes sweep {
+      0% { transform: translateX(-140px); opacity: 0; }
+      35% { opacity: 1; }
+      100% { transform: translateX(560px); opacity: 0; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 0.35; }
+      50% { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .rise, .breathe, .signal, .sheen, .blink { animation: none !important; }
+    }
+  </style>
+
+  <rect width="1200" height="260" rx="24" fill="url(#bg)" />
+  <rect x="1" y="1" width="1198" height="258" rx="23" stroke="#334155" stroke-opacity="0.7" />
+  <rect width="1200" height="260" rx="24" fill="url(#grid)" />
+
+  <g class="breathe">
+    <circle cx="1036" cy="66" r="78" fill="#22D3EE" fill-opacity="0.09" filter="url(#glow)" />
+  </g>
+  <circle cx="1056" cy="64" r="4" fill="#A3E635" />
+  <circle class="blink" cx="1076" cy="64" r="4" fill="#22D3EE" />
+  <circle cx="1096" cy="64" r="4" fill="#F8FAFC" fill-opacity="0.5" />
+
+  <path d="M812 206C884 164 931 230 996 188C1049 154 1084 178 1130 148" stroke="#22D3EE" stroke-opacity="0.4" stroke-width="2" stroke-linecap="round" fill="none" />
+  <path d="M812 222C886 180 934 246 1000 204C1049 172 1082 196 1130 166" stroke="#A3E635" stroke-opacity="0.22" stroke-width="1" stroke-linecap="round" fill="none" />
+  <path class="signal" pathLength="1" d="M812 206C884 164 931 230 996 188C1049 154 1084 178 1130 148" stroke="#A3E635" stroke-width="2.6" stroke-linecap="round" fill="none" stroke-dasharray="0.035 0.965" filter="url(#signalGlow)" />
+
+  <text class="rise d1" x="72" y="72" fill="#A3E635" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" font-weight="700" letter-spacing="3">SHAWN HARVEY OTERO</text>
+  <text class="rise d2" x="72" y="99" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.6">FULL-STACK WEB DEVELOPER</text>
+
+  <text class="rise d3" x="72" y="163" fill="#F8FAFC" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="46" font-weight="800" letter-spacing="-1.2">Build what <tspan fill="#22D3EE">people</tspan> can use.</text>
+
+  <rect class="rise d4 sheen" x="72" y="190" width="130" height="3" rx="1.5" fill="url(#accent)" />
+</svg>

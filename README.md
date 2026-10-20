@@ -1,72 +1,30 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Shawn Harvey Otero - Full-stack Web Developer" width="100%" />
+  <img src="./assets/hero.svg" alt="Shawn Harvey Otero - Build what people can use. Full-stack web developer from Bohol, Philippines." width="100%" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="42%" valign="top">
-      <h1>Build what<br />people can use.</h1>
-      <p>Full-stack web developer from Bohol, Philippines. I turn real requirements into maintainable products, APIs, and responsive interfaces.</p>
-      <p>
-        <a href="mailto:oteroshawnharvey@gmail.com"><img src="https://img.shields.io/badge/EMAIL-oteroshawnharvey%40gmail.com-0E7490?style=flat-square&amp;labelColor=0B1018" alt="Email Shawn" /></a>
-        <a href="https://github.com/SHAWNZgowN"><img src="https://img.shields.io/badge/GITHUB-SHAWNZgowN-4D7C0F?style=flat-square&amp;labelColor=0B1018" alt="Shawn on GitHub" /></a>
-      </p>
-      <p><img src="https://img.shields.io/badge/STATUS-Open%20to%20thoughtful%20problems-4D7C0F?style=flat-square&amp;labelColor=0B1018" alt="Open to thoughtful problems" /></p>
-    </td>
-    <td width="58%" valign="top">
-      <p><sub>01 — PROFILE SIGNAL</sub></p>
-      <h2>Useful systems.<br /><em>Clear interfaces.</em></h2>
-      <table width="100%">
-        <tr>
-          <td align="center" width="33%"><h3>21</h3><sub>public repositories</sub></td>
-          <td align="center" width="33%"><h3>TS</h3><sub>primary build language</sub></td>
-          <td align="center" width="33%"><h3>PH</h3><sub>Bohol, Philippines</sub></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Full-stack web developer from Bohol, Philippines. I turn real requirements into maintainable products, APIs, and responsive interfaces.
+</p>
 
-## What I build
+<p align="center">
+  <a href="mailto:oteroshawnharvey@gmail.com"><img src="./assets/icon-mail.svg" alt="Email" height="30" /></a>
+  &nbsp;<strong>oteroshawnharvey@gmail.com</strong>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SHAWNZgowN"><img src="./assets/icon-github.svg" alt="GitHub" height="30" /></a>
+  &nbsp;<strong>SHAWNZgowN</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/icon-location.svg" alt="Location" height="30" />
+  &nbsp;<strong>Bohol, Philippines</strong>
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Structured products</h3>
-      <p>Content management systems, publishing workflows, and operational tools that keep information useful.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Reliable interfaces</h3>
-      <p>Backend APIs and data-driven web interfaces with clear contracts from database to browser.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/status-pulse.svg" alt="" height="16" />
+  &nbsp;<strong>Open to thoughtful problems</strong>
+</p>
 
-## Experience and education
-
-<table width="100%">
-  <tr>
-    <td width="52%" valign="top">
-      <h3>Experience</h3>
-      <p><strong>Web Developer Intern</strong><br />
-      ACE Medical Center - Bohol<br />
-      <sub>February 2026 – May 2026</sub></p>
-      <ul>
-        <li>Contributed to a business content management system for marketing content and internal article management.</li>
-        <li>Developed backend features with TypeScript, NestJS, GraphQL, Apollo, Prisma, and PostgreSQL.</li>
-        <li>Implemented article and category management, database relationships, testing, and debugging.</li>
-      </ul>
-    </td>
-    <td width="48%" valign="top">
-      <h3>Education</h3>
-      <p><strong>Bachelor of Science in Information Technology</strong><br />
-      Cum Laude<br />
-      Bohol Island State University - Balilihan Campus</p>
-      <h3>Languages</h3>
-      <p>English · Bisaya · Filipino</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/brand-line-animated.svg" alt="" width="72%" />
+</p>
 
 ## Stack
 
@@ -101,7 +59,7 @@
 
 <p><strong>Tools &amp; workflow</strong> &nbsp;<sub>the daily loop</sub><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" height="34" />&nbsp;&nbsp;
+  <img src="./assets/icon-github.svg" alt="GitHub" title="GitHub" height="30" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" title="Visual Studio Code" height="34" />
 </p>
 
