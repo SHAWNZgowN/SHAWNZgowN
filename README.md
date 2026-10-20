@@ -18,16 +18,16 @@
   <img src="./assets/brand-line-animated.svg" alt="" width="72%" />
 </p>
 
-## Stack
+<h2><img src="https://img.shields.io/badge/Stack-22D3EE?style=flat-square" alt="Stack" height="30" /></h2>
 
-<p><strong>Languages</strong> &nbsp;<sub>the primitives</sub><br />
+<p><img src="https://img.shields.io/badge/Languages-22D3EE?style=flat-square" alt="Languages" height="22" /> &nbsp;<sub>the primitives</sub><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="34" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="34" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="34" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" height="34" />
 </p>
 
-<p><strong>Frontend</strong> &nbsp;<sub>the visible layer</sub><br />
+<p><img src="https://img.shields.io/badge/Frontend-22D3EE?style=flat-square" alt="Frontend" height="22" /> &nbsp;<sub>the visible layer</sub><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="34" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" height="34" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="34" />&nbsp;&nbsp;
@@ -35,13 +35,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="34" />
 </p>
 
-<p><strong>Backend</strong> &nbsp;<sub>the service layer</sub><br />
+<p><img src="https://img.shields.io/badge/Backend-22D3EE?style=flat-square" alt="Backend" height="22" /> &nbsp;<sub>the service layer</sub><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" height="34" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" title="Django" height="34" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" height="34" />
 </p>
 
-<p><strong>Data &amp; APIs</strong> &nbsp;<sub>the connective tissue</sub><br />
+<p><img src="https://img.shields.io/badge/Data%20%26%20APIs-22D3EE?style=flat-square" alt="Data &amp; APIs" height="22" /> &nbsp;<sub>the connective tissue</sub><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" height="34" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apollographql/apollographql-original.svg" alt="Apollo" title="Apollo" height="34" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="34" />&nbsp;&nbsp;
@@ -49,15 +49,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="REST APIs" title="REST APIs" height="34" />
 </p>
 
-<p><strong>Tools &amp; workflow</strong> &nbsp;<sub>the daily loop</sub><br />
+<p><img src="https://img.shields.io/badge/Tools%20%26%20Workflow-22D3EE?style=flat-square" alt="Tools &amp; Workflow" height="22" /> &nbsp;<sub>the daily loop</sub><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="34" />&nbsp;&nbsp;
   <img src="./assets/icon-github.svg" alt="GitHub" title="GitHub" height="30" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" title="Visual Studio Code" height="34" />
 </p>
 
-## GitHub signals
-
-<p>A compact read on activity, language mix, streaks, and contribution rhythm - kept inside the same navy, lime, and cyan visual system.</p>
+<h2><img src="https://img.shields.io/badge/GitHub%20Stats-A3E635?style=flat-square" alt="GitHub Stats" height="30" /></h2>
 
 <table width="100%">
   <tr>
@@ -92,15 +90,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHAWNZgowN&amp;theme=github_dark&amp;bg_color=0B1018&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;border_color=243447&amp;icon_color=A3E635&amp;chart_color=22D3EE" alt="Shawn's GitHub profile details" width="100%" />
 </p>
 
-<p><sub>3D CONTRIBUTION PROFILE / BRAND REMAP</sub></p>
-
 <p align="center">
   <img src="./profile-3d-contrib/profile-brand.svg" alt="Shawn's 3D GitHub contribution profile in cyan and lime" width="100%" />
 </p>
 
-## Contribution trail
-
-<p>Every square is real contribution data. Empty cells stay quiet, activity runs from deep cyan to ice, and the snake carries the lime accent across the grid.</p>
+<h2><img src="https://img.shields.io/badge/Contribution%20Trail-22D3EE?style=flat-square" alt="Contribution Trail" height="30" /></h2>
 
 <p align="center">
   <picture>
@@ -115,5 +109,5 @@
 </p>
 
 <p align="center">
-  <a href="mailto:oteroshawnharvey@gmail.com">Let's build something useful.</a>
+  <a href="mailto:oteroshawnharvey@gmail.com"><img src="https://img.shields.io/badge/Let%27s%20build%20something%20useful.-A3E635?style=flat-square" alt="Let's build something useful." height="28" /></a>
 </p>
