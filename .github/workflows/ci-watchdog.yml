@@ -1,0 +1,81 @@
+name: CI watchdog
+
+"on":
+  schedule:
+    - cron: "5,35 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  actions: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check generator workflow health
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+
+          monitored=("Generate readme stats cards" "Generate contribution snake" "Generate 3D contribution graph")
+
+          ids="$(gh api "repos/${GH_REPO}/actions/workflows" --jq '.workflows[] | "\(.name)\t\(.id)"')"
+          declare -A id_by_name
+          while IFS=$'\t' read -r name id; do
+            id_by_name["$name"]="$id"
+          done <<< "$ids"
+
+          gh label list --limit 200 --json name --jq '.[].name' | grep -qx 'ci-alert' \
+            || { gh label create ci-alert --color D93F0B --description "Automated CI health alert" >/dev/null || true; }
+
+          open_alerts="$(gh api "search/issues" -X GET -f q="repo:${GH_REPO} type:issue state:open label:ci-alert" --jq '.items[] | "\(.number)\t\(.title)"' || true)"
+
+          for wf in "${monitored[@]}"; do
+            id="${id_by_name[$wf]:-}"
+            if [ -z "$id" ]; then
+              echo "::error title=Watchdog config::Monitored workflow not found: ${wf}"
+              continue
+            fi
+
+            newest="$(gh api "repos/${GH_REPO}/actions/workflows/${id}/runs?per_page=3" --jq '.workflow_runs[0] | "\(.status)\t\(.conclusion // "none")\t\(.html_url)"')"
+            status="$(cut -f1 <<< "$newest")"
+            conclusion="$(cut -f2 <<< "$newest")"
+            run_url="$(cut -f3 <<< "$newest")"
+
+            case "$status" in
+              completed)
+                case "$conclusion" in
+                  success|skipped|neutral) verdict="healthy" ;;
+                  *) verdict="broken" ;;
+                esac ;;
+              *) verdict="pending" ;;
+            esac
+
+            alert_num="$(awk -F'\t' -v t="🚨 CI failing: ${wf}" '$2==t {print $1}' <<< "$open_alerts" || true)"
+
+            case "$verdict" in
+              broken)
+                if [ -z "$alert_num" ]; then
+                  body="$(printf '%s\n' \
+                    "**Workflow:** \`${wf}\`" \
+                    "**Run:** ${run_url}" \
+                    "**Conclusion:** \`${conclusion}\`" \
+                    "**Detected:** $(date -u '+%Y-%m-%d %H:%M UTC')" "" \
+                    "Opened automatically by the CI watchdog. It closes itself once the next run of this workflow succeeds." )"
+                  gh issue create --title "🚨 CI failing: ${wf}" --label ci-alert --body "$body"
+                else
+                  echo "${wf}: still failing, alert #${alert_num} remains open"
+                fi ;;
+              healthy)
+                if [ -n "$alert_num" ]; then
+                  gh issue close "$alert_num" --comment "✅ Recovered: latest run succeeded — ${run_url}"
+                else
+                  echo "${wf}: healthy"
+                fi ;;
+              pending)
+                echo "${wf}: latest run in progress, checking again later" ;;
+            esac
+          done
