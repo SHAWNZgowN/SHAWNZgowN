@@ -83,10 +83,10 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=SHAWNZgowN&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;disable_animations=true&amp;cache_seconds=86400&amp;bg_color=0B1018&amp;title_color=22D3EE&amp;icon_color=A3E635&amp;text_color=CBD5E1&amp;ring_color=A3E635&amp;border_color=243447" alt="Shawn's GitHub overview statistics" width="100%" />
+      <img src="./profile/stats.svg" alt="Shawn's GitHub overview statistics" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAWNZgowN&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;disable_animations=true&amp;bg_color=0B1018&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;border_color=243447" alt="Shawn's most used GitHub languages" width="100%" />
+      <img src="./profile/top-langs.svg" alt="Shawn's most used GitHub languages" width="100%" />
     </td>
   </tr>
 </table>
