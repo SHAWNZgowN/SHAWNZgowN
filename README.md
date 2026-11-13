@@ -78,23 +78,23 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&amp;theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" height="48" />
+    <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" width="48" height="48" />
   </picture>&nbsp;&nbsp;<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&amp;theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" height="48" />
+    <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" width="48" height="48" />
   </picture>&nbsp;&nbsp;<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&amp;theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" alt="Visual Studio Code" height="48" />
+    <img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" alt="Visual Studio Code" width="48" height="48" />
   </picture>&nbsp;&nbsp;<picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-codex-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/icon-codex-light.svg" />
-    <img src="./assets/icon-codex-dark.svg" alt="OpenAI Codex" height="48" />
+    <img src="./assets/icon-codex-dark.svg" alt="OpenAI Codex" width="48" height="48" />
   </picture>&nbsp;&nbsp;<picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-claudecode-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/icon-claudecode-light.svg" />
-    <img src="./assets/icon-claudecode-dark.svg" alt="Claude Code" height="48" />
+    <img src="./assets/icon-claudecode-dark.svg" alt="Claude Code" width="48" height="48" />
   </picture>
 </p>
 
