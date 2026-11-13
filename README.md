@@ -37,11 +37,11 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cvue%2Ctailwind%2Chtmx%2Chtml%2Ccss&amp;theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cvue%2Ctailwind%2Chtmx%2Chtml%2Ccss&amp;theme=light" />
     <img src="https://skillicons.dev/icons?i=react%2Cvue%2Ctailwind%2Chtmx%2Chtml%2Ccss&amp;theme=dark" alt="React, Vue, Tailwind CSS, htmx, HTML, CSS" height="48" />
-  </picture>&nbsp;<picture>
+  </picture>&nbsp;&nbsp;<picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-shadcn-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/icon-shadcn-light.svg" />
     <img src="./assets/icon-shadcn-dark.svg" alt="shadcn/ui" height="48" />
-  </picture>&nbsp;<picture>
+  </picture>&nbsp;&nbsp;<picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-daisyui-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/icon-daisyui-light.svg" />
     <img src="./assets/icon-daisyui-dark.svg" alt="DaisyUI" height="48" />
@@ -65,7 +65,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=graphql%2Capollo%2Cpostgres%2Cprisma&amp;theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=graphql%2Capollo%2Cpostgres%2Cprisma&amp;theme=light" />
     <img src="https://skillicons.dev/icons?i=graphql%2Capollo%2Cpostgres%2Cprisma&amp;theme=dark" alt="GraphQL, Apollo, PostgreSQL, Prisma" height="48" />
-  </picture>&nbsp;<picture>
+  </picture>&nbsp;&nbsp;<picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-swagger-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/icon-swagger-light.svg" />
     <img src="./assets/icon-swagger-dark.svg" alt="REST APIs and Swagger" height="48" />
