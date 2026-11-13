@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-label="shadcn/ui">
+  <rect width="256" height="256" rx="60" fill="#F4F2ED" />
+  <rect x="62" y="62" width="132" height="132" rx="28" stroke="#242938" stroke-width="12" />
+  <path d="M92 154 154 92" stroke="#242938" stroke-width="14" stroke-linecap="round" />
+</svg>
