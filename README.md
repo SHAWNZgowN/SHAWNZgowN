@@ -20,13 +20,15 @@
 
 ## <img src="./assets/icon-stack.svg" alt="" height="26" /> Tech Stack
 
+<!-- Icons from https://github.com/tandpfun/skill-icons (MIT), vendored locally via scripts/generate-strips.ps1 with a fixed 8.25px gap baked into each strip -->
+
 <p><strong>Languages</strong></p>
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cphp&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cphp&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cphp&amp;theme=dark" alt="TypeScript, JavaScript, Python, PHP" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-languages-light.svg" />
+    <img src="./assets/stack-languages-dark.svg" alt="TypeScript, JavaScript, Python, PHP" height="48" />
   </picture>
 </p>
 
@@ -34,17 +36,9 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cvue%2Ctailwind%2Chtmx%2Chtml%2Ccss&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cvue%2Ctailwind%2Chtmx%2Chtml%2Ccss&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=react%2Cvue%2Ctailwind%2Chtmx%2Chtml%2Ccss&amp;theme=dark" alt="React, Vue, Tailwind CSS, htmx, HTML, CSS" height="48" />
-  </picture>&nbsp;&nbsp;<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-shadcn-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icon-shadcn-light.svg" />
-    <img src="./assets/icon-shadcn-dark.svg" alt="shadcn/ui" height="48" />
-  </picture>&nbsp;&nbsp;<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-daisyui-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icon-daisyui-light.svg" />
-    <img src="./assets/icon-daisyui-dark.svg" alt="DaisyUI" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-frontend-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-frontend-light.svg" />
+    <img src="./assets/stack-frontend-dark.svg" alt="React, Vue, Tailwind CSS, htmx, HTML, CSS, shadcn/ui, DaisyUI" height="48" />
   </picture>
 </p>
 
@@ -52,9 +46,9 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs%2Cdjango%2Claravel&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nestjs%2Cdjango%2Claravel&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=nestjs%2Cdjango%2Claravel&amp;theme=dark" alt="NestJS, Django, Laravel" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-backend-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-backend-light.svg" />
+    <img src="./assets/stack-backend-dark.svg" alt="NestJS, Django, Laravel" height="48" />
   </picture>
 </p>
 
@@ -62,13 +56,9 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=graphql%2Capollo%2Cpostgres%2Cprisma&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=graphql%2Capollo%2Cpostgres%2Cprisma&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=graphql%2Capollo%2Cpostgres%2Cprisma&amp;theme=dark" alt="GraphQL, Apollo, PostgreSQL, Prisma" height="48" />
-  </picture>&nbsp;&nbsp;<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-swagger-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icon-swagger-light.svg" />
-    <img src="./assets/icon-swagger-dark.svg" alt="REST APIs and Swagger" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-data-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-data-light.svg" />
+    <img src="./assets/stack-data-dark.svg" alt="GraphQL, Apollo, PostgreSQL, Prisma, REST APIs and Swagger" height="48" />
   </picture>
 </p>
 
@@ -76,25 +66,9 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" width="48" height="48" />
-  </picture>&nbsp;&nbsp;<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" width="48" height="48" />
-  </picture>&nbsp;&nbsp;<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" alt="Visual Studio Code" width="48" height="48" />
-  </picture>&nbsp;&nbsp;<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-codex-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icon-codex-light.svg" />
-    <img src="./assets/icon-codex-dark.svg" alt="OpenAI Codex" width="48" height="48" />
-  </picture>&nbsp;&nbsp;<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-claudecode-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icon-claudecode-light.svg" />
-    <img src="./assets/icon-claudecode-dark.svg" alt="Claude Code" width="48" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-tools-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-tools-light.svg" />
+    <img src="./assets/stack-tools-dark.svg" alt="Git, GitHub, Visual Studio Code, OpenAI Codex, Claude Code" height="48" />
   </picture>
 </p>
 
